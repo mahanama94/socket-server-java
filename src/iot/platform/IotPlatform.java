@@ -7,10 +7,6 @@ package iot.platform;
 
 import lk.bhanuka.weather.basestation.BaseStation;
 
-/**
- *
- * @author bhanuka
- */
 public class IotPlatform {
 
     /**
